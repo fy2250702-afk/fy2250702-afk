@@ -24,7 +24,7 @@
 <tr>
     <td align='center' width="200">
      
-
+   <img src=""
   <td align='center' width="200">
         <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" >
     </td>
@@ -42,7 +42,7 @@
  
 <tr>
     <td align='center'>
-        <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2FMicrosoft-Azure-logo.jpg?alt=media&token=5d196928-848c-433b-b332-c91e7714ab74">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBc8gH8huQWuwLUZBHCLePCySh5CE8RaiOWA&s">
     </td>
     <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
