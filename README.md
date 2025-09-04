@@ -27,7 +27,7 @@
     </td>
 
   <td align='center' width="200">
-        <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg"  >
+        <img src=["https://cdn.worldvectorlogo.com/logos/css-3.svg"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCI1yTWEJhL2OoD4f-5JxhUcxPA-AVikenrA&s)  >
     </td>
  <td align='center' width="200">
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Fnextjs-icon-dark-background.png?alt=media&token=fe7213b5-5848-4391-b293-77118f3cb456">
