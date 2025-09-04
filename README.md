@@ -42,7 +42,7 @@
  
 <tr>
     <td align='center'>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBc8gH8huQWuwLUZBHCLePCySh5CE8RaiOWA&s">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR62Y0mZ3WQ3aKDJh0FJ6sAjMZjYv_MvlWYOQ&s">
     </td>
     <td align='center'>
         <img src="https://firebasestorage.googleapis.com/v0/b/foodapp-lqii.appspot.com/o/internee.pk%20raphics%2Faws.png?alt=media&token=e52f5663-5727-412e-8f03-03c7a3adc4fe">
